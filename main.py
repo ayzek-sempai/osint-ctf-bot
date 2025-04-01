@@ -22,9 +22,20 @@ RESPONSES = {
     "Sanjeev Patil":"Here its: \n3277235f34777c657b4a685f7b3e} \nThank you!",
     "Miravere Hotel":"Nice, can you also give me other name of this hotel. My guys trying to find, but they have been in georgia several years ago, so they need the older name. But here is your half payment: bitwalls_ctf{D0_u_W0rk_4_NSA_",
     "Mira Vere Hotel":"Nice, can you also give me other name of this hotel. My guys trying to find, but they have been in georgia several years ago, so they need the older name. But here is your half payment: bitwalls_ctf{D0_u_W0rk_4_NSA_",
-    "Hotel Europe":"Thank you, here is other part of payment: 603d7b4a45462876744a36272b}"
+    "Hotel Europe":"Thank you, here is other part of payment: 603d7b4a45462876744a36272b}",
+    "Orzklv":"GOOD BOY, here is your flag: bitwalls_ctf{pl33z_1_doN7_w4nN4_9o_2_j41L_392361687624257d2b27742b41}",
+    "orzklv":"GOOD BOY, here is your flag: bitwalls_ctf{pl33z_1_doN7_w4nN4_9o_2_j41L_392361687624257d2b27742b41}",
+    
 
 }
+
+"""
+HEEEEEEEEEEEEEEEEEEEEEEEEEEEREEEEEEEEEEEEEEEEEEEEEE ISSSS YOUR FLAG
+
+
+bitwalls_ctf{GOOD_JOB_NYA}
+
+"""
 
 @dp.message()
 async def handle_message(message: Message):
